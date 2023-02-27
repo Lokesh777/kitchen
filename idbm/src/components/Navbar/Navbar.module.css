@@ -1,0 +1,22 @@
+.navbar{
+  background-color: rgb(162, 117, 204);
+  font-size: x-large;
+  display: flex;
+  justify-content: space-evenly;
+  font-weight: 600;
+}
+
+.active {
+    color: red;
+    text-decoration: none;
+    padding: 1rem;
+    font-weight: 700;
+  }
+  
+  .default {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 1rem;
+    font-weight: 700;
+  }
+  
